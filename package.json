@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-site-9random/",
+    "build": "vite build --base=/html-css_95_gizlisultan/",
     "preview": "vite preview"
   },
   "devDependencies": {
